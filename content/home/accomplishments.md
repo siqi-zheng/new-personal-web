@@ -37,7 +37,7 @@ item:
     description: 'GPA higher than 3.5/4.0'
     organization: University of Toronto
     organization_url: ''
-    title = Dean's List Scholar
+    title: Dean's List Scholar
     url: ''    
     
 
