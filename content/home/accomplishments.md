@@ -31,22 +31,38 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - organization = "University of Toronto"
+    organization_url = ""
+    title = "Dean's List Scholar"
+    url = ""
+    certificate_url = ""
+    date_start = "2018-09-01"
+    date_end = "2022-04-30"
+    description = "GPA higher than 3.5/4.0"
+  - organization = "Victoria College, University of Toronto"
+    organization_url = ""
+    title = "The Roy Alvin Hope Scholarship"
+    url = ""
+    certificate_url = ""
+    date_start = "2019-08-01"
+    date_end = ""
+    description = ""
+  - organization = "University of Toronto"
+    organization_url = ""
+    title = "Second-year Dean's List Scholar"
+    url = ""
+    certificate_url = ""
+    date_start = "2019-09-01"
+    date_end = "2020-04-30"
+    description = "GPA higher than 3.5/4.0"
+  - organization = "Victoria College, University of Toronto"
+    organization_url = ""
+    title = "The John A Sawyer Scholarship"
+    url = ""
+    certificate_url = ""
+    date_start = "2020-08-01"
+    date_end = ""
+    description = ""
 
 design:
   columns: '2'
