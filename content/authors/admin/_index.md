@@ -30,8 +30,8 @@ interests:
 education:
   courses:
     - course: BSc in Applied Statistics and Physics
-    institution: University of Toronto, St. George Campus
-    year: 2022
+      institution: University of Toronto, St. George Campus
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,3 +62,6 @@ email: ''
 highlight_name: true
 ---
 
+Siqi Zheng is a researcher in Bayesian statistics who is hoping to continue studying statistics in graduate school. He is currently a business analyst at the University of Toronto, St. George Campus. His research interests include computational Bayesian statistics and model comparison. He was also a teaching assistant for STA130H1F 2020 and STA130H1S 2021.
+
+He has presented his paper ([abstract on page 59](https://ssc.ca/sites/default/files/imce/program2022.pdf)) in reproducible Bayesian research at the Tenth Annual Canadian Statistics Student Conference (CSSC) and he was awarded second place for Best Oral Presentation.
