@@ -31,38 +31,14 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - organization = "University of Toronto"
-    organization_url = ""
-    title = "Dean's List Scholar"
-    url = ""
-    certificate_url = ""
-    date_start = "2018-09-01"
-    date_end = "2022-04-30"
-    description = "GPA higher than 3.5/4.0"
-  - organization = "Victoria College, University of Toronto"
-    organization_url = ""
-    title = "The Roy Alvin Hope Scholarship"
-    url = ""
-    certificate_url = ""
-    date_start = "2019-08-01"
-    date_end = ""
-    description = ""
-  - organization = "University of Toronto"
-    organization_url = ""
-    title = "Second-year Dean's List Scholar"
-    url = ""
-    certificate_url = ""
-    date_start = "2019-09-01"
-    date_end = "2020-04-30"
-    description = "GPA higher than 3.5/4.0"
-  - organization = "Victoria College, University of Toronto"
-    organization_url = ""
-    title = "The John A Sawyer Scholarship"
-    url = ""
-    certificate_url = ""
-    date_start = "2020-08-01"
-    date_end = ""
-    description = ""
+  - certificate_url: ''
+    organization: 'University of Toronto'
+    organization_url: ''
+    title = Dean's List Scholar
+    url: ''
+    date_start: "2018-09-01"
+    date_end: "2022-04-30"
+    description: "GPA higher than 3.5/4.0"
 
 design:
   columns: '2'
