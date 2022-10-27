@@ -32,13 +32,16 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: ''
-    organization: 'University of Toronto'
+    date_end: '2022-04-30'
+    date_start: '2018-09-01'
+    description: 'GPA higher than 3.5/4.0'
+    organization: University of Toronto
     organization_url: ''
     title = Dean's List Scholar
     url: ''
-    date_start: "2018-09-01"
-    date_end: "2022-04-30"
-    description: "GPA higher than 3.5/4.0"
+    date_start: '2018-09-01'
+    
+    
 
 design:
   columns: '2'
