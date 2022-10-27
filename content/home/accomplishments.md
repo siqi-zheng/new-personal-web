@@ -38,9 +38,7 @@ item:
     organization: University of Toronto
     organization_url: ''
     title = Dean's List Scholar
-    url: ''
-    date_start: '2018-09-01'
-    
+    url: ''    
     
 
 design:
