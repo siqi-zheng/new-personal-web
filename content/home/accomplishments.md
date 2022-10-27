@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://artsci.calendar.utoronto.ca/academic-record
+  - certificate_url: https://www.utoronto.ca/
     date_end: '2022-04-30'
     date_start: '2018-09-01'
     description: 'GPA higher than 3.5/4.0'
@@ -39,6 +39,22 @@ item:
     organization_url: https://www.utoronto.ca/
     title: Dean's List Scholar
     url: ''    
+  - certificate_url: https://www.utoronto.ca/
+    date_end: ''
+    date_start: '2020-08-01'
+    description: '$1000'
+    organization: University of Toronto
+    organization_url: https://www.utoronto.ca/
+    title: The John A Sawyer Scholarship
+    url: ''
+  - certificate_url: https://www.utoronto.ca/
+    date_end: ''
+    date_start: '2019-08-01'
+    description: '$1000'
+    organization: University of Toronto
+    organization_url: https://www.utoronto.ca/
+    title: The Roy Alvin Hope Scholarship
+    url: ''
     
 
 design:
