@@ -23,15 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.utoronto.ca/
+  - certificate_url: ''
     date_end: '2022-04-30'
     date_start: '2018-09-01'
     description: 'GPA higher than 3.5/4.0'
@@ -39,7 +31,7 @@ item:
     organization_url: https://www.utoronto.ca/
     title: Dean's List Scholar
     url: ''    
-  - certificate_url: https://www.utoronto.ca/
+  - certificate_url: ''
     date_end: ''
     date_start: '2020-08-01'
     description: '$1000'
@@ -47,7 +39,7 @@ item:
     organization_url: https://www.utoronto.ca/
     title: The John A Sawyer Scholarship
     url: ''
-  - certificate_url: https://www.utoronto.ca/
+  - certificate_url: ''
     date_end: ''
     date_start: '2019-08-01'
     description: '$1000'
